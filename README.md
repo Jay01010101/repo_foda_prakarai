@@ -1,2 +1,2 @@
-# repo_foda_prakarai
+# together_we_code
 Exercice beCode débutant
